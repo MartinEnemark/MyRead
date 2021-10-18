@@ -20,3 +20,5 @@ det ser ud på følgende måde:
 
 Koden er ikke testet for bogstaver som æ,ø,å
 Man skal angivve hele navnet - der bliver altså ikke tjekket for om der mangler et mellemnavn.
+Og mange flere tests mangler selvfølgelig. 
+Jeg har brugt ca. 3 timer og 30 min.
